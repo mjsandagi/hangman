@@ -2,8 +2,6 @@
 
 **A Java-based implementation of Hangman with configurable difficulty levels.**
 
----
-
 ## UML Class Diagram
 
 ![UML Class Diagram](./assets/Hangman_UML_Class_Diagram.png)
@@ -15,14 +13,10 @@
 -   **Game State Tracking**: Displays guessed letters, remaining attempts, and the partially revealed word.
 -   **Input/Output Handling**: Robust validation for user inputs and clear feedback via the console.
 
----
-
 ## Prerequisites
 
 -   **Java JDK 8 or higher** (to compile and run the project).
 -   A `words.txt` file in the project directory.
-
----
 
 ## Installation & Usage
 
